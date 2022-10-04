@@ -35,13 +35,6 @@ This web page is impressive for a data journalist’s first HTML project. The we
 <img width="1074" alt="Screen Shot 2022-09-20 at 9 27 15 AM" src="https://user-images.githubusercontent.com/105556091/191360651-ad699ce6-6a6f-40ee-8e60-019a76cb031c.png">
 
 
-- You can’t see the “Filter Table” button distinctly-most people don’t read they skim, they might look right over the filter button and not even know its there. 
-
-<img width="264" alt="Screen Shot 2022-09-20 at 9 28 37 AM" src="https://user-images.githubusercontent.com/105556091/191360754-5bdaea30-e122-4f5f-bdaf-9dee4f8d465a.png">
-
-<img width="263" alt="Screen Shot 2022-09-20 at 9 29 01 AM" src="https://user-images.githubusercontent.com/105556091/191360793-86746e60-b3cc-406d-a821-9e88f261bb6f.png">
-
-
 - The webpage doesn't identify apostrophes and commas. The “comments” section of the HTML table has typos.
 <img width="825" alt="Screen Shot 2022-09-20 at 9 30 08 AM" src="https://user-images.githubusercontent.com/105556091/191360845-7341495b-0317-4b00-b845-f7052d1a0524.png">
 
